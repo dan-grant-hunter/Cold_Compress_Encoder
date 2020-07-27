@@ -8,4 +8,6 @@ This is just a simple encoding program that was developed through completing a p
 
 2. The second prompt asks for the messages to be encoded
 
-3. Finally, the program will output the encrypted messages
+3. The program will output the encrypted messages
+
+4. Finally, the program will ask the user if they would like to encode another message
